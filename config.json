@@ -1,5 +1,5 @@
 {
-  "adminNumber": "8801839268235",
+  "adminNumber": "8801876401888",
   "botName": "GoatBot",
   "0": "U",
   "1": "p",
@@ -37,31 +37,32 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100071009500533",
-    "61576212342334"
+    "100080456630885",
+    "61567485701086",
+    "100024448839490"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100071009500533"
+      "100080456630885"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "🅝🅔🅩🅤🅚🅞⋆.˚🦋༘⋆⋆.˚🦋༘⋆",
+  "nickNameBot": "KICK BOT",
   "prefix": "/",
   "BaYjidnapi": "",
   "api": "",
   "api2": "",
   "api3": "",
-  "authorName": "BaYjid🤡",
-  "facebook2": "https://www.facebook.com/BAYJID.404",
-  "facebook": "https://www.facebook.com/BAYJID.404",
-  "email": "mohammadbayjid204@yahoo.com",
-  "replit": "https://replit.com/@biju",
-  "github": "https://github.com/BAYJID-404-BOYZ",
-  "insta": "no",
-  "age": "17+",
-  "TG": "",
+  "authorName": " H4M1M",
+  "facebook2": "https://www.facebook.com/HACKER.HAMIM.BHAI.X2",
+  "facebook": "https://www.facebook.com/HACKER.HAMIM.BHAI.X2",
+  "email": "hamimhosenx@gmail.com",
+  "replit": "https://replit.com/@H4M1MXW",
+  "github": "https://github.com/TanzidAhmadHamim",
+  "insta": " https://www.instagram.com/x2_is_here",
+  "age": "18",
+  "TG": "+8801876401888",
   "database": {
     "type": "mongodb",
     "uriMongodb": "mongodb+srv://mohammadayan55505:NOOBS-ANTHONY-DATABASE-SAVE-12@cluster0.rmf2m.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
